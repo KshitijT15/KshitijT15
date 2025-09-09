@@ -35,7 +35,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KshitijT15&show_icons=true&rank_icon=github&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KshitijT15&hide_border=true" height="165" alt="Streak Stats"/>
 </p>
 
 <p align="center">
