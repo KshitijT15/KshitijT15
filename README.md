@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kshitij Thorat</h1>
-<h3 align="center">A Passionate Computer Engineering Student  from Pune</h3>
+<h1 align="center">Hey 👋, I'm Kshitij Thorat</h1>
+<h3 align="center">🚀 Turning Data into Insights, and Ideas into Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KshitijT15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
