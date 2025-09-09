@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **Data Analysis, Business Intelligence, and MLOps**
-- 💬 Ask me about **Python, SQL, Tableau, Power BI, and Machine Learning**
+- 💬 Ask me about **Python, SQL, Tableau and Machine Learning**
 - 📫 How to reach me: **kshitijthorat15@gmail.com**
 - 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/kshitij-thorat-15july2005)
 
