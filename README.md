@@ -96,16 +96,6 @@ Python · SQL · Tableau · Machine Learning
 
 ---
 
-## 🌱 Currently Exploring
-- Experiment tracking for ML (clean reports + reproducible runs)  
-- Flask microservice for ML inference API with demo notebooks  
-- Tableau dashboard snapshots for Netflix analysis
-
----
-
-## 💬 Daily Developer Quote
-> “Security is not a product, it's a process.” — Bruce Schneier
-
 ---
 
 ## 📫 Let’s Connect
