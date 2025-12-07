@@ -70,10 +70,6 @@ Python · SQL · Tableau · Machine Learning
   EDA + cleaning + normalization pipeline, reports, notebooks, visuals.  
   Repo: [Infosys_NETFLIX](https://github.com/KshitijT15/Infosys_NETFLIX)
 
-- 🛫 British Airways Data Science Simulation  
-  Analytics + modeling simulation: insights, viz, recommendations.  
-  Repo: [British-Airways-Data-Science-Simulation](https://github.com/KshitijT15/British-Airways-Data-Science-Simulation)
-
 - 🌾 Rahat — AI Crop Manager (fork)  
   Practical AI for crop suggestions, fertilizers, disease detection.  
   Repo: [Rahat--AI-crop-manager](https://github.com/KshitijT15/Rahat--AI-crop-manager)
@@ -82,8 +78,12 @@ Python · SQL · Tableau · Machine Learning
   Justice simplified, access amplified — civic-tech UX and web.  
   Repo: [Nyay-Mitra](https://github.com/KshitijT15/Nyay-Mitra)
 
-- 🛒 Electroshop OOPS (C++) · 🎞️ movies_flex (PHP)  
-  Repos: [Electroshop_OOPS](https://github.com/KshitijT15/Electroshop_OOPS) · [movies_flex](https://github.com/KshitijT15/movies_flex)
+- 📊 GRADEGRAPH – Student Performance Analysis (Python + Streamlit)
+  Repos: [Grade-graph](https://github.com/KshitijT15/GRADEGRAPH)) · (https://gradegraph-computerdepartment.streamlit.app/)
+  
+- 🛫 British Airways Data Science Simulation  
+  Analytics + modeling simulation: insights, viz, recommendations.  
+  Repo: [British-Airways-Data-Science-Simulation](https://github.com/KshitijT15/British-Airways-Data-Science-Simulation)
 
 ---
 
