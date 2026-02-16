@@ -1,101 +1,203 @@
-## Hi 👋, I'm Kshitij Thorat
+<div align="center">
 
-### Turning Data into Decisions · ML that Ships · Visuals that Speak
+# 👋 Hi, I'm Kshitij Thorat
 
-Final-year Computer Engineering · Aspiring Data Analyst & Developer  
-Python · SQL · Tableau · Machine Learning
+### 🎯 Turning Data into Decisions · ML that Ships · Visuals that Speak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kshitij%20Thorat-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kshitij-thorat-15july2005)
-[![Email](https://img.shields.io/badge/Email-kshitijthorat15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijthorat15@gmail.com)
+**Final-Year Computer Engineering Student**  
+Aspiring Data Analyst & ML Engineer
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-thorat-15july2005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijthorat15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KshitijT15)
 
-## 👤 About Me
-- 📊 I turn messy datasets into clear insights and decisions.
-- 🧪 I build explainable baselines and iterate with measurable lift.
-- 🧹 I care about clean data: validation, normalization, reproducibility.
-- 🖼️ I tell the story with visuals that answer “so what?”.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💡 About Me
 
-### 👨‍💻 Languages
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Kshitij Thorat"
+        self.role = "Data Analyst & ML Engineer"
+        self.language_spoken = ["en_US", "hi_IN", "mr_IN"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's turn data into impact.")
+    
+    def current_work(self):
+        return {
+            "focus": ["Data Analytics", "Machine Learning", "NLP"],
+            "learning": ["Deep Learning", "Medical Image Analysis", "MLOps"],
+            "building": ["Predictive Models", "Interactive Dashboards", "Data Pipelines"]
+        }
+```
+
+- 📊 I transform messy datasets into **clear insights and actionable decisions**
+- 🧪 I build **explainable models** with measurable impact
+- 🧹 I prioritize **clean data**: validation, normalization, reproducibility
+- 🎨 I tell stories with **visuals that answer "so what?"**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=0A0A0A&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
-### 🧠 Data & ML
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 
-### 📊 Visualization / BI
+### Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9CA4?logo=python&logoColor=white&style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=0A0A0A&style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 
-### 🧰 Dev & Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-<!-- Minimal icon row (alternative to badges) -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
-## 📂 Featured Projects
-- 🎬 Infosys_NETFLIX — Netflix Data Analysis  
-  EDA + cleaning + normalization pipeline, reports, notebooks, visuals.  
-  Repo: [Infosys_NETFLIX](https://github.com/KshitijT15/Infosys_NETFLIX)
+## 🚀 Featured Projects
 
-- 🌾 Rahat — AI Crop Manager (fork)  
-  Practical AI for crop suggestions, fertilizers, disease detection.  
-  Repo: [Rahat--AI-crop-manager](https://github.com/KshitijT15/Rahat--AI-crop-manager)
+<table>
+<tr>
+<td width="50%">
 
-- ⚖️ Nyay-Mitra (fork)  
-  Justice simplified, access amplified — civic-tech UX and web.  
-  Repo: [Nyay-Mitra](https://github.com/KshitijT15/Nyay-Mitra)
+### 🎬 [Netflix Data Analysis](https://github.com/KshitijT15/Infosys_NETFLIX)
+**Large-scale EDA & Visualization Pipeline**
 
-- 📊 GRADEGRAPH – Student Performance Analysis (Python + Streamlit)
-  Repos: [Grade-graph](https://github.com/KshitijT15/GRADEGRAPH)) · (https://gradegraph-computerdepartment.streamlit.app/)
-  
-- 🛫 British Airways Data Science Simulation  
-  Analytics + modeling simulation: insights, viz, recommendations.  
-  Repo: [British-Airways-Data-Science-Simulation](https://github.com/KshitijT15/British-Airways-Data-Science-Simulation)
+- 📈 Statistical analysis on streaming platform data
+- 🧹 Complete data cleaning & normalization
+- 📊 Interactive Tableau dashboards
+- 🔍 Genre trends & regional insights
+
+**Tech:** `Python` `Pandas` `Tableau` `PySpark`
+
+</td>
+<td width="50%">
+
+### 📊 [GradeGraph](https://github.com/KshitijT15/GRADEGRAPH)
+**Student Performance Analytics Platform**
+
+- 🎯 ~90% accuracy classification model
+- 📉 Real-time performance dashboards
+- 🔄 Automated data pipeline
+- 📱 [Live Demo](https://gradegraph-computerdepartment.streamlit.app/)
+
+**Tech:** `Python` `Scikit-learn` `Streamlit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚖️ [Nyay Mitra](https://github.com/KshitijT15/Nyay-Mitra)
+**AI-Powered Legal Assistance System**
+
+- 🤖 NLP-based FIR section prediction
+- 🗣️ Multilingual speech-to-text
+- ♿ Indian Sign Language recognition
+- 📊 Crime trend analytics
+
+**Tech:** `InLegalBERT` `NLP` `OpenCV` `Flask`
+
+</td>
+<td width="50%">
+
+### 🌾 [Rahat AI Crop Manager](https://github.com/KshitijT15/Rahat--AI-crop-manager)
+**Precision Agriculture Analytics**
+
+- 🌱 CNN-based disease detection
+- 💧 IoT sensor data analysis
+- 🎯 Smart irrigation recommendations
+- 🧪 Fertilizer optimization
+
+**Tech:** `CNN` `OpenCV` `Flask` `Firebase`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=KshitijT15&theme=dark&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api?username=KshitijT15&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijT15&layout=compact&theme=dark&hide_border=true)
+## 💼 Experience Highlights
+
+<div align="center">
+
+| Role | Organization | Duration | Focus Area |
+|------|-------------|----------|------------|
+| 🧠 **ML Intern** | TechXminds AI Solutions | Feb 2026 - Present | Brain Tumor Classification (MRI) |
+| 📊 **Data Analytics Intern** | Infosys Springboard | Oct 2025 - Dec 2025 | Netflix Dataset Visualization |
+| 🎖️ **President** | CSI RSCOE Student Chapter | Final Year | Technical Leadership |
+| 💰 **Treasurer** | ACM RSCOE Student Chapter | Third Year | Financial Management |
+
+</div>
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+🥇 **1st Place** - INOX Project Competition, D.Y. Patil, Pune  
+🥈 **2nd Place** - Electrothon, JSPM RSCOE, Pune
+
+</div>
+
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: in/kshitij-thorat-15july2005  
-- 📧 Email: kshitijthorat15@gmail.com
+## 📊 What I'm Working On
+
+```yaml
+Current Focus:
+  - Deep Learning for Medical Imaging
+  - Advanced NLP & Text Classification
+  - Production ML Pipelines & MLOps
+  - Interactive Data Storytelling
+
+Learning:
+  - Model Optimization & Deployment
+  - Advanced Statistical Methods
+  - Cloud-based ML (AWS/Azure)
+  - Real-time Analytics Systems
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open to opportunities in Data Analytics, ML Engineering, and BI Development**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-thorat-15july2005)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijthorat15@gmail.com)
+
+---
+
+### 💭 "Data is the new oil, but insights are the refined fuel."
+
+![Profile Views](https://komarev.com/ghpvc/?username=KshitijT15&color=blueviolet&style=for-the-badge)
+
+</div>
