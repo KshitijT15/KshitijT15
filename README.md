@@ -156,16 +156,6 @@ class DataAnalyst:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 **1st Place** - INOX Project Competition, D.Y. Patil, Pune  
-🥈 **2nd Place** - Electrothon, JSPM RSCOE, Pune
-
-</div>
-
----
 
 ## 📊 What I'm Working On
 
