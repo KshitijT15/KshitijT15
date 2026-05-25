@@ -52,6 +52,7 @@ class DataAnalyst:
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=0A0A0A&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
@@ -60,6 +61,12 @@ class DataAnalyst:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+
+### XAI & Deep Learning
+![ResNet](https://img.shields.io/badge/ResNet101-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF6B6B?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-4ECDC4?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-45B7D1?style=for-the-badge)
 
 ### Visualization & BI
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
@@ -70,6 +77,8 @@ class DataAnalyst:
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
@@ -83,17 +92,35 @@ class DataAnalyst:
 <tr>
 <td width="50%">
 
-### 🎬 [Netflix Data Analysis](https://github.com/KshitijT15/Infosys_NETFLIX)
-**Large-scale EDA & Visualization Pipeline**
+### 🧠 [Brain Tumour XAI](https://github.com/KshitijT15)
+**AI-Powered MRI Classification with Explainability**
 
-- 📈 Statistical analysis on streaming platform data
-- 🧹 Complete data cleaning & normalization
-- 📊 Interactive Tableau dashboards
-- 🔍 Genre trends & regional insights
+- 🎯 99%+ accuracy across 4 tumor categories using fine-tuned ResNet101
+- 🔍 Three XAI layers: Grad-CAM · LIME · SHAP
+- 🏥 Doctor-facing web app with instant classification & confidence scores
+- 💬 Plain-language patient explanations via Groq LLM
 
-**Tech:** `Python` `Pandas` `Tableau` `PySpark`
+📊 *Glioma: 98.57% · Meningioma: 99.29% · No Tumor: 100% · Pituitary: 99.29%*
+
+**Tech:** `PyTorch` `ResNet101` `Grad-CAM` `LIME` `SHAP` `FastAPI` `React` `Groq API`
 
 </td>
+<td width="50%">
+
+### ⚖️ [Nyay Mitra](https://github.com/KshitijT15/Nyay-Mitra)
+**AI-Powered Legal Assistance System**
+
+- 🤖 NLP-based FIR section prediction
+- 🗣️ Multilingual speech-to-text
+- ♿ Indian Sign Language recognition
+- 📊 Crime trend analytics
+
+**Tech:** `InLegalBERT` `NLP` `OpenCV` `Flask`
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📊 [GradeGraph](https://github.com/KshitijT15/GRADEGRAPH)
@@ -107,20 +134,33 @@ class DataAnalyst:
 **Tech:** `Python` `Scikit-learn` `Streamlit`
 
 </td>
+<td width="50%">
+
+### 🧪 [Web Form Automation Testing Suite](https://github.com/KshitijT15/web-form-automation-testing-suite)
+**End-to-End QA Engineering with C++, .NET & Selenium**
+
+- ⚙️ C++ data engine generates random valid/invalid test users at runtime
+- 🌐 ASP.NET Core MVC registration form as the live test target
+- ✅ 8/8 tests passing — data-driven via TestCaseSource, zero hardcoded inputs
+- 🐳 Dockerized & deployed on Railway
+
+**Tech:** `C++` `ASP.NET Core` `Selenium WebDriver` `NUnit` `Docker` `Railway`
+
+</td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### ⚖️ [Nyay Mitra](https://github.com/KshitijT15/Nyay-Mitra)
-**AI-Powered Legal Assistance System**
+### 🎬 [Netflix Data Analysis](https://github.com/KshitijT15/Infosys_NETFLIX)
+**Large-scale EDA & Visualization Pipeline**
 
-- 🤖 NLP-based FIR section prediction
-- 🗣️ Multilingual speech-to-text
-- ♿ Indian Sign Language recognition
-- 📊 Crime trend analytics
+- 📈 Statistical analysis on streaming platform data
+- 🧹 Complete data cleaning & normalization
+- 📊 Interactive Tableau dashboards
+- 🔍 Genre trends & regional insights
 
-**Tech:** `InLegalBERT` `NLP` `OpenCV` `Flask`
+**Tech:** `Python` `Pandas` `Tableau` `PySpark`
 
 </td>
 <td width="50%">
@@ -147,15 +187,14 @@ class DataAnalyst:
 
 | Role | Organization | Duration | Focus Area |
 |------|-------------|----------|------------|
-| 🧠 **ML Intern** | TechXminds AI Solutions | Feb 2026 - Present | Brain Tumor Classification (MRI) |
-| 📊 **Data Analytics Intern** | Infosys Springboard | Oct 2025 - Dec 2025 | Netflix Dataset Visualization |
+| 🧠 **ML Intern** | TechXminds AI Solutions | Feb 2026 - Present | Brain Tumor MRI Classification · XAI (Grad-CAM, LIME, SHAP) |
+| 📊 **Data Analytics Intern** | Infosys Springboard | Oct 2025 - Dec 2025 | Netflix Dataset EDA & Visualization |
 | 🎖️ **President** | CSI RSCOE Student Chapter | Final Year | Technical Leadership |
 | 💰 **Treasurer** | ACM RSCOE Student Chapter | Third Year | Financial Management |
 
 </div>
 
 ---
-
 
 ## 📊 What I'm Working On
 
