@@ -78,6 +78,9 @@ class DataAnalyst:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=0A0A0A&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
@@ -92,17 +95,17 @@ class DataAnalyst:
 <tr>
 <td width="50%">
 
-### 🧠 [Brain Tumour XAI](https://github.com/KshitijT15)
+### 🧠 [Brain Tumour XAI](https://github.com/KshitijT15/brain-tumor-classification-xai) · [🌐 Live](https://brain-tumor-frontend-three.vercel.app/)
 **AI-Powered MRI Classification with Explainability**
 
-- 🎯 99%+ accuracy across 4 tumor categories using fine-tuned ResNet101
-- 🔍 Three XAI layers: Grad-CAM · LIME · SHAP
+- 🎯 99.3% accuracy across 4 tumour types using fine-tuned ResNet101
+- 🔍 Three XAI layers: Grad-CAM · LIME · SHAP — bridging prediction & clinical trust
 - 🏥 Doctor-facing web app with instant classification & confidence scores
-- 💬 Plain-language patient explanations via Groq LLM
+- ☁️ FastAPI backend on HuggingFace Spaces · Next.js + Supabase frontend on Vercel
 
 📊 *Glioma: 98.57% · Meningioma: 99.29% · No Tumor: 100% · Pituitary: 99.29%*
 
-**Tech:** `PyTorch` `ResNet101` `Grad-CAM` `LIME` `SHAP` `FastAPI` `React` `Groq API`
+**Tech:** `PyTorch` `ResNet101` `Grad-CAM` `LIME` `SHAP` `FastAPI` `Next.js` `Supabase` `HuggingFace`
 
 </td>
 <td width="50%">
@@ -185,12 +188,13 @@ class DataAnalyst:
 
 <div align="center">
 
-| Role | Organization | Duration | Focus Area |
+| Role | Organization | Duration | Highlights |
 |------|-------------|----------|------------|
-| 🧠 **ML Intern** | TechXminds AI Solutions | Feb 2026 - Present | Brain Tumor MRI Classification · XAI (Grad-CAM, LIME, SHAP) |
-| 📊 **Data Analytics Intern** | Infosys Springboard | Oct 2025 - Dec 2025 | Netflix Dataset EDA & Visualization |
-| 🎖️ **President** | CSI RSCOE Student Chapter | Final Year | Technical Leadership |
-| 💰 **Treasurer** | ACM RSCOE Student Chapter | Third Year | Financial Management |
+| 🧠 **ML Intern** | TechxMinds · Hybrid | Feb 2026 – May 2026 · 4 mos | Built full-stack XAI diagnostic system — ResNet101 (99.3% acc), Grad-CAM · SHAP · LIME; FastAPI on HuggingFace + Next.js/Supabase on Vercel · [Live Demo](https://brain-tumor-frontend-three.vercel.app/) |
+| 🎖️ **President** | CSI RSCOE Student Chapter | Mar 2025 – Mar 2026 · 1 yr | Led state-level Enthusia 2025; organized OS-CN, AI-ML, Git-GitHub & Agentic AI sessions; drove recruitment & mentoring |
+| 📊 **Student Intern** | Infosys Springboard · Remote | Sep 2025 – Nov 2025 · 3 mos | Analyzed 8,800+ Netflix titles via Databricks & PySpark; built Tableau dashboards + Random Forest & K-Means models |
+| 💰 **Treasurer** | ACM RSCOE Student Chapter | Sep 2024 – Feb 2025 · 6 mos | Managed treasury for Pradyot 2.0 & multiple technical events; financial transparency & coordination |
+| 🤝 **Sponsorship Coordinator** | ACM RSCOE Student Chapter | Mar 2024 – Sep 2024 · 7 mos | Secured sponsorships, managed outreach & public communications for chapter events |
 
 </div>
 
